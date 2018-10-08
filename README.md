@@ -1,3 +1,3 @@
-#Nest Flight Application
+Nest Flight Application
 
-How to launch the application 
+How to launch the application
